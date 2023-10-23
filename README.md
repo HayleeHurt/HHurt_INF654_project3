@@ -1,1 +1,2 @@
 # HHurt_INF654_project3
+This is my third project for INF 654 mobile web development. It is a basic web application that should help to manage orders for a small business. It currently has a side navigation and main horizontal nav as well. I will continue to work on it and get it functional in the coming weeks. It is very simsilar to the project we are working on in class. I have attempted to add in a delete function in the java script but I do not yet have it working all the way.
